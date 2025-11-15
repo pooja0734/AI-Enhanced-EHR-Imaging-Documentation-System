@@ -1,4 +1,5 @@
 🏥AI Enhanced EHR Imaging & Documentation System 
+
 A GenAI-powered healthcare automation system that integrates Electronic Health Records (EHR) and medical imaging workflows to enhance clinical documentation, reduce workload, and support real-time decision-making.
 
 This project provides:
@@ -41,6 +42,7 @@ Drift detection
 Fail-safe and rollback mechanisms
 
 📁 Project Structure
+
 AI-Enhanced-EHR-Imaging-Documentation-System/
 │
 ├── EHR_1.py        # Module 1: Data preparation & preprocessing
@@ -52,6 +54,7 @@ AI-Enhanced-EHR-Imaging-Documentation-System/
 └── README.md       # Project documentation
 
 🧩 Modules Breakdown
+
 Module 1 – EHR & Imaging Data Preparation
 Data cleaning and formatting
 Structured dataset generation
