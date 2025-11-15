@@ -44,13 +44,17 @@ Fail-safe and rollback mechanisms
 📁 Project Structure
 
 AI-Enhanced-EHR-Imaging-Documentation-System/
-│
+
 ├── EHR_1.py        # Module 1: Data preparation & preprocessing
+
 ├── EHR_2.py        # Module 2: AI model training / inference
+
 ├── EHR3.py         # Module 3: Clinical note generation + ICD coding
+
 ├── EHR_4.py        # Module 4: Deployment & EHR system integration
-│
+
 ├── LICENSE         # MIT License
+
 └── README.md       # Project documentation
 
 🧩 Modules Breakdown
