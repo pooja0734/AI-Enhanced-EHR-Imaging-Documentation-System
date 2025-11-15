@@ -4,11 +4,11 @@ A GenAI-powered healthcare automation system that integrates Electronic Health R
 
 This project provides:
 
-Automated clinical note generation
-Intelligent ICD-10 coding support
-AI-powered medical image processing
-Integration with existing hospital EHR systems
-Deployment-ready modules for clinical environments
+Automated clinical note generation,
+Intelligent ICD-10 coding support,
+AI-powered medical image processing,
+Integration with existing hospital EHR systems,
+Deployment-ready modules for clinical environments.
 
 🚀 Features
 
