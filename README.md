@@ -4,9 +4,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 62.1+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
-[![javascript 36.4](https://img.shields.io/badge/TensorFlow-2.14-yellow.svg)](https://tensorflow.org)
-[![HTML 0.3](https://img.shields.io/badge/FastAPI-0.104-orange.svg)](https://fastapi.tiangolo.com)
-[![css 1.2](https://img.shields.io/badge/React-18.2-purple.svg)](https://reactjs.org)
+[![javascript 36.4](https://img.shields.io/badge/javascript-2.14-yellow.svg)](https://javascript.org)
+[![HTML 0.3](https://img.shields.io/badge/HTML-0.104-orange.svg)](https://HTML.tiangolo.com)
+[![CSS 1.2](https://img.shields.io/badge/CSS-18.2-purple.svg)](https://CSS.org)
 📌 Project Overview
 
 This project integrates AI, automation, and healthcare data workflows to build an enhanced Electronic Health Record (EHR) system that supports:
