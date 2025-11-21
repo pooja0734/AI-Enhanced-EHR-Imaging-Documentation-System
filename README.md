@@ -13,11 +13,17 @@
 This project integrates AI, automation, and healthcare data workflows to build an enhanced Electronic Health Record (EHR) system that supports:
 
 🧠 AI-generated clinical notes
+
 📘 Automated ICD-10 coding
+
 🖼️ Medical imaging enhancement (X-ray, CT, General)
+
 📂 EHR dataset creation & preprocessing
+
 ⚙️ Backend APIs for hospital/EHR integration
+
 📊 Agile documentation for software development process
+
 It is designed for academic submissions, healthcare AI prototypes, and production-ready research demos.
 
 🎯 Core Features
@@ -159,14 +165,20 @@ python EHR_4.py
 Outputs:
 
 Milestone4_Integration_Deployment.md
+
 Milestone4_Integration_Deployment.pdf
 
 📊 Outputs Summary
+
 Module	Output
 EHR_1.py	EHR data, CSVs, HTML report, charts
+
 EHR_2.py	Enhanced images, metrics.csv
+
 EHR_3.py	Clinical notes, ICD-10 code suggestions
+
 EHR_4.py	Deployment documentation (PDF + MD)
+
 Backend	REST API for EHR records
 
 🛡️ Security & Compliance
