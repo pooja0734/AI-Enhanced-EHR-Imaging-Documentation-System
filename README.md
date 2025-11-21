@@ -1,16 +1,12 @@
 # 🏥 EHR AI System
 > AI-Powered Imaging & Intelligent Clinical Documentation Platform
 
-[![Python 3.11+](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/downloads/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-009688.svg)](https://fastapi.tiangolo.com/)
-[![React 18](https://img.shields.io/badge/React-18.2-61dafb.svg)](https://react.dev/)
-[![PyTorch 2.0+](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C.svg)](https://pytorch.org/)
-[![Azure OpenAI](https://img.shields.io/badge/Azure-OpenAI-0089D6.svg)](https://azure.microsoft.com/en-us/products/ai-services/openai-service)
-[![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900.svg)](https://aws.amazon.com/)
-[![Status](https://img.shields.io/badge/Status-Production%20Ready-success.svg)](#-project-status)
-[![License](https://img.shields.io/badge/License-Infosys%20Internship-lightgrey.svg)](#-license)
 
----
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 62.1+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+[![javascript 36.4](https://img.shields.io/badge/TensorFlow-2.14-yellow.svg)](https://tensorflow.org)
+[![HTML 0.3](https://img.shields.io/badge/FastAPI-0.104-orange.svg)](https://fastapi.tiangolo.com)
+[![css 1.2](https://img.shields.io/badge/React-18.2-purple.svg)](https://reactjs.org)
 📌 Project Overview
 
 This project integrates AI, automation, and healthcare data workflows to build an enhanced Electronic Health Record (EHR) system that supports:
@@ -118,23 +114,33 @@ Defect tracker
 Perfect for college or organizational software development lifecycle (SDLC) submissions.
 
 📁 Project Structure
+
 AI-Enhanced-EHR-Imaging-Documentation-System/
 │
 ├── EHR_1.py                           # EHR Dataset Generator + Reports
+
 ├── EHR_2.py                           # Medical Image Enhancement Pipeline
+
 ├── EHR_3.py                           # Clinical Notes + ICD-10 Coding
+
 ├── EHR_4.py                           # Integration & Deployment Docs (PDF/MD)
+
 │
 ├── backend/                           # Node.js Express backend API
 │   ├── routes/
+
 │   ├── models/
+
 │   ├── controllers/
+
 │   └── server.js
 │
 ├── agile documentation/               # All Agile SDLC Excel Sheets
 │
 ├── README.md                          # Documentation (replace with this file)
+
 └── LICENSE
+
 
 🛠️ Installation & Setup
 1️⃣ Install Python Dependencies
@@ -155,9 +161,9 @@ Run the backend API:
 npm start
 
 ▶️ How to Use the Python Scripts
+
 ✔ Generate EHR Dataset
 python EHR_1.py
-
 
 Creates:
 
@@ -208,6 +214,7 @@ EHR_2.py	Enhanced images, metrics.csv
 EHR_3.py	Clinical notes, ICD-10 code suggestions
 EHR_4.py	Deployment documentation (PDF + MD)
 Backend	REST API for EHR records
+
 🛡️ Security & Compliance
 
 This project includes guidelines aligned with:
@@ -234,3 +241,11 @@ Clinical NLP & ML workflows
 
 Full-stack EHR system development
 
+
+📜 License
+
+This project is for educational and internship purposes under Infosys.
+
+🏁 Conclusion
+
+The AI-Powered Enhanced EHR Imaging & Documentation System is a step toward automating clinical workflows using Generative AI. It enhances both diagnostic support and administrative efficiency, allowing medical staff to focus more on patient care.
